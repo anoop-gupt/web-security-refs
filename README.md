@@ -3,9 +3,10 @@ A curated list of best of the articles, podcast, videos, references  on Web Secu
 
 **Web Security**
 
-**Informal Learning**
+1. **Informal Learning**
 
-**Front-End Security (Video)**
+1.
+  1. **Front-End Security (Video)**
 
 What you will learn
 
@@ -16,26 +17,33 @@ What you will learn
 
 [Click here](https://youtu.be/fYjO5pIY1mY) to watch
 
-**Web Security Basics**
+1.
+  1. **Web Security Basics**
 
 What you will learn
 
-- Know the basics of Web Security
-- Know about CSRF
-- Know about Access and Refresh tokens
+1.
+  1.
+    - Know the basics of Web Security
+    - Know about CSRF
+    - Know about Access and Refresh tokens
 
-[**Click here**](https://github.com/vasanthk/web-security-basics) **to read**
+[Click here](https://github.com/vasanthk/web-security-basics) to read
 
-**HTTP Security Best Practices**
+1.
+  1. **HTTP Security Best Practices**
 What will you learn?
 
-- Understand what is cookie security
-- What are the content type options
-- Frame options and XSS protection
+-
+  -
+    -  Understand what is cookie security
+    - What are the content type options
+    - Frame options and XSS protection
 
-[**Click here**](https://httpsecurityreport.com/best_practice.html) to access and learn more.
+[Click here](https://httpsecurityreport.com/best_practice.html) to access and learn more.
 
-**Web Security Tools**
+1.
+  1. **Web Security Tools**
 
 Testing tools help you to identify the security loop hole. Here is a list of some commonly used open source tools
 
@@ -43,11 +51,10 @@ Testing tools help you to identify the security loop hole. Here is a list of som
 
 
 
-**Training and Conferences**
+1. **Training and Conferences**
 
-#
-
-**Step up your web security**
+1.
+  1. **Step up your web security**
 
 What will you learn?
 
@@ -55,11 +62,12 @@ What will you learn?
 - Evaluate app security
 - Practice defensive coding for preventing attacks
 
-[**Click here**](https://www.udemy.com/share/1fvd4/) to register
+[Click here](https://www.udemy.com/share/1fvd4/) to register
 
 
 
-**Podcast:**
+1.
+  1. **Podcast**
 
 Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure.
 
