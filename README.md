@@ -5,8 +5,7 @@ A curated list of best of the articles, podcast, videos, references  on Web Secu
 
 1. **Informal Learning**
 
-1.
-  1. **Front-End Security (Video)**
+**Front-End Security (Video)**
 
 What you will learn
 
@@ -17,33 +16,25 @@ What you will learn
 
 [Click here](https://youtu.be/fYjO5pIY1mY) to watch
 
-1.
-  1. **Web Security Basics**
+ **Web Security Basics**
 
 What you will learn
 
-1.
-  1.
     - Know the basics of Web Security
     - Know about CSRF
     - Know about Access and Refresh tokens
 
 [Click here](https://github.com/vasanthk/web-security-basics) to read
 
-1.
-  1. **HTTP Security Best Practices**
+ **HTTP Security Best Practices**
 What will you learn?
-
--
-  -
     -  Understand what is cookie security
     - What are the content type options
     - Frame options and XSS protection
 
 [Click here](https://httpsecurityreport.com/best_practice.html) to access and learn more.
 
-1.
-  1. **Web Security Tools**
+**Web Security Tools**
 
 Testing tools help you to identify the security loop hole. Here is a list of some commonly used open source tools
 
@@ -51,10 +42,9 @@ Testing tools help you to identify the security loop hole. Here is a list of som
 
 
 
-1. **Training and Conferences**
+**Training and Conferences**
 
-1.
-  1. **Step up your web security**
+**Step up your web security**
 
 What will you learn?
 
@@ -65,9 +55,7 @@ What will you learn?
 [Click here](https://www.udemy.com/share/1fvd4/) to register
 
 
-
-1.
-  1. **Podcast**
+**Podcast**
 
 Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure.
 
