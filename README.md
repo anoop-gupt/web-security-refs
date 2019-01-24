@@ -62,6 +62,8 @@ Web Security Warriors is a weekly discussion by developers about keeping website
 [Click here](https://devchat.tv/web-sec-warriors) to watch
 
 **Tools**
-https://www.ssllabs.com/
-https://mozilla.github.io/server-side-tls/ssl-config-generator/
+- https://www.ssllabs.com/
+- https://mozilla.github.io/server-side-tls/ssl-config-generator/
+**Refrences**
+- https://wiki.mozilla.org/Security/Server_Side_TLS
 
