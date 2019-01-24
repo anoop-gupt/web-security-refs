@@ -60,3 +60,6 @@ What will you learn?
 Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure.
 
 [Click here](https://devchat.tv/web-sec-warriors) to watch
+
+**Tools**
+https://www.ssllabs.com/
